@@ -1,5 +1,4 @@
-#Deploy link
-https://campus-board-supa-base.vercel.app/login
+
 
 
 # CampusBoard — Minimal Supabase + React Learning Project
